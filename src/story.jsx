@@ -12,7 +12,7 @@ function Story() {
   let tot=0
 
   useEffect(() => {
-    fetch('http://localhost:3000/Story')
+    fetch('/api/Story')
       .then((data) => data.json()) 
       .then((data) => setSetstories(data))
       .catch((err) => console.log(err));

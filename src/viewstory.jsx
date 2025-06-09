@@ -9,7 +9,7 @@ function ViewStory() {
   const navigate = useNavigate;
 
   useEffect(() => {
-    fetch(`http://localhost:3000/Story/${id}`)
+    fetch(`/api/Story/${id}`)
       .then(res => res.json())
       .then(data => setStory(data))
       .catch(err => console.log(err));
@@ -21,9 +21,9 @@ function ViewStory() {
     <div className='d-flex justify-content-center'>
       {story ? (
         <div >
-         <Link to={`http://localhost:3001/Story/${Number(id)-1}`}><i class="bi bi-arrow-left-circle-fill"></i></Link>
+         <Link to={`/api/Story/${Number(id)-1}`}><i class="bi bi-arrow-left-circle-fill"></i></Link>
           <img className='sto' src={story.image} alt='s'/>
-          <Link to={`http://localhost:3001/Story/${Number(id)+1}`}><i class="bi bi-arrow-right-circle-fill"></i></Link>
+          <Link to={`/api/Story/${Number(id)+1}`}><i class="bi bi-arrow-right-circle-fill"></i></Link>
         </div>
       ) : (
         <div>Loading...</div>
