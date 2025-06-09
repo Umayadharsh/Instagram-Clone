@@ -23,7 +23,7 @@ function Story() {
       <div className='d-none'>{tot=stories.length}</div>
       {stories.length > 0 ? (
         stories.map((story) => (
-          <div key={story.id} className='mx-3' onClick={() => {navigate(`/story/${story.id}`)}}>
+          <div key={story.id} className='mx-3' onClick={() => {navigate(`/api/story/${story.id}`)}}>
             <div className='gradient-border'>
                 <img src={story.profilePic} alt='sto' className='story-dp rounded-circle ' />
               </div>
