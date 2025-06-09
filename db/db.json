@@ -1,0 +1,148 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "travel_with_amy",
+      "profilePic":  "https://i.pinimg.com/736x/90/fc/89/90fc8930bd96f76bd839527fe1cf7722.jpg",
+      "image":  "https://i.pinimg.com/736x/ea/aa/7d/eaaa7d6b6f0c43d7867f857303e59126.jpg",
+      "caption": "Sunsets and sea vibes 🌅🌊 #beachlife #sunsetlover",
+      "likes": 230,
+      "comments": [
+        {
+          "username": "john_doe",
+          "comment": "This is stunning!"
+        },
+        {
+          "username": "wanderlust92",
+          "comment": "Wish I was there 😍"
+        }
+      ],
+      "timestamp": "2025-06-01T18:25:43.511Z"
+    },
+    {
+      "id": 2,
+      "username": "foodie_mike",
+      "profilePic": "https://i.pinimg.com/736x/36/07/94/360794e8b5618ce89a2021da64f743e4.jpg",
+      "image":  "https://i.pinimg.com/736x/14/c1/d2/14c1d2c2a0d7829d90b8822dbaac63d1.jpg",
+      "caption": "Homemade creamy Alfredo pasta 🍝✨ #foodporn #homemade",
+      "likes": 180,
+      "comments": [
+        {
+          "username": "chef_julia",
+          "comment": "Looks delish! 🤤"
+        }
+      ],
+      "timestamp": "2025-06-02T12:15:10.232Z"
+    },
+    {
+      "id": 3,
+      "username": "fit_lara",
+      "profilePic":  "https://i.pinimg.com/736x/41/d2/f4/41d2f4c7e5e2acd77c21e0904433be19.jpg",
+      "image":  "https://i.pinimg.com/736x/e4/5b/43/e45b43939af850479328df3cc0b7a278.jpg",
+      "caption": "Leg day done ✅ Let’s gooo! 💪 #fitnessmotivation",
+      "likes": 310,
+      "comments": [
+        {
+          "username": "muscle_matt",
+          "comment": "Beast mode 🔥🔥"
+        },
+        {
+          "username": "yoga_emma",
+          "comment": "Respect girl 💯"
+        }
+      ],
+      "timestamp": "2025-06-03T08:47:29.120Z"
+    },
+    {
+      "id": 4,
+      "username": "artsy_alex",
+      "profilePic":  "https://i.pinimg.com/736x/44/64/83/446483c837d925899d8bf1ea0331b68e.jpg",
+      "image":  "https://i.pinimg.com/736x/0d/96/10/0d961047ca39fe73661ebc4acd09f432.jpg",
+      "caption": "My latest sketch ✏️ Thoughts? #artdaily #sketchbook",
+      "likes": 145,
+      "comments": [
+        {
+          "username": "design_queen",
+          "comment": "Beautiful lines and shading!"
+        }
+      ],
+      "timestamp": "2025-06-03T15:04:52.751Z"
+    },
+    {
+      "id": 5,
+      "username": "nature_snapper",
+      "profilePic":  "https://i.pinimg.com/736x/ef/39/8b/ef398b3c7da3c6080cb79a7d95d81f6e.jpg",
+      "image":  "https://i.pinimg.com/736x/49/ae/4b/49ae4b1e53ebe6951d377e680d76cd01.jpg",
+      "caption": "Breathe in the wild air 🌲🍃 #naturelover",
+      "likes": 210,
+      "comments": [],
+      "timestamp": "2025-06-04T06:19:33.882Z"
+    },
+    {
+      "id": 6,
+      "username": "cat_life",
+      "profilePic":  "https://i.pinimg.com/736x/35/5b/3d/355b3d62469fe5a5a13f11418268e34a.jpg",
+      "image":  "https://i.pinimg.com/736x/54/fa/cf/54facfa9341c446d836ac032407a3966.jpg",
+      "caption": "Hes judging you 🐱 #catsofinstagram",
+      "likes": 500,
+      "comments": [
+        {
+          "username": "doggobuddy",
+          "comment": "Too cute!!! 😍"
+        }
+      ],
+      "timestamp": "2025-06-04T10:23:10.715Z"
+    }
+  ],
+  "profile":{
+      "id": 1,
+      "username": "travel_with_amy",
+      "profilePic":  "https://i.pinimg.com/736x/48/fc/f4/48fcf44843032b15a317162aef3d604a.jpg"
+      },
+      "suggestions": [
+       { "id": 1,
+      "username": "travel_with_amy",
+      "profilePic":  "https://i.pinimg.com/736x/48/fc/f4/48fcf44843032b15a317162aef3d604a.jpg",
+      "image":  "https://i.pinimg.com/736x/2e/3d/68/2e3d6845011de0d24c13dd1e1028a2ff.jpg"},
+      {"id": 2,
+      "username": "foodie_mike",
+      "profilePic": "https://i.pinimg.com/736x/48/fc/f4/48fcf44843032b15a317162aef3d604a.jpg",
+      "image":  "https://i.pinimg.com/736x/2e/3d/68/2e3d6845011de0d24c13dd1e1028a2ff.jpg"},
+      {"id": 3,
+      "username": "fit_lara",
+      "profilePic":  "https://i.pinimg.com/736x/48/fc/f4/48fcf44843032b15a317162aef3d604a.jpg",
+      "image":  "https://i.pinimg.com/736x/2e/3d/68/2e3d6845011de0d24c13dd1e1028a2ff.jpg"}
+      ],
+      "Story": [
+    {
+      "id": 1,
+      "username": "travel_with_amy",
+      "profilePic":  "https://i.pinimg.com/736x/8c/4a/51/8c4a51e005629a084505649079b0a949.jpg",
+      "image":  "https://i.pinimg.com/736x/bc/b4/af/bcb4afc763ca8caa86d3c5cf62c5a3d3.jpg" },
+    {
+      "id": 2,
+      "username": "foodie_mike",
+      "profilePic": "https://i.pinimg.com/736x/52/a5/5f/52a55f4a0e684ed61bc862ddc69aa3d7.jpg",
+      "image":  "https://i.pinimg.com/736x/51/f7/b2/51f7b28261595ace6b8018f0b1c5d192.jpg"},
+    {
+      "id": 3,
+      "username": "fit_lara",
+      "profilePic":  "https://i.pinimg.com/736x/b9/df/66/b9df662e948d68027f788eeba7b863fc.jpg",
+      "image":  "https://i.pinimg.com/736x/bb/4e/ac/bb4eaceb16e529c969ce8f4bddef83fd.jpg"},
+    {
+      "id": 4,
+      "username": "artsy_alex",
+      "profilePic":  "https://i.pinimg.com/736x/84/4a/01/844a01c590736745d45b1934aa52c99b.jpg",
+      "image":  "https://i.pinimg.com/736x/5f/47/0a/5f470adbdc264dce8a4713f2c80d3041.jpg"},
+    {
+      "id": 5,
+      "username": "nature_snapper",
+      "profilePic":  "https://i.pinimg.com/736x/6b/42/3a/6b423ac9cce3874f429326e81a674ccb.jpg",
+      "image":  "https://i.pinimg.com/736x/39/22/d2/3922d2cc8890ed7b1dd073c959f1c8af.jpg"},
+    {
+      "id": 6,
+      "username": "cat_life",
+      "profilePic":  "https://i.pinimg.com/736x/4a/fc/12/4afc129b9e00056bfaebdb0a9295d823.jpg",
+      "image":  "https://i.pinimg.com/736x/96/68/bd/9668bd0d95b66353f30849289d6f161f.jpg"}
+      ]
+    }
